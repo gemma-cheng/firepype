@@ -15,4 +15,3 @@ The format follows Keep a Changelog and Semantic Versioning.
 ### Known limitations
 - Tested on a limited sample of FIRE Prism-mode observations.
 - Results not guaranteed; validate against FireHose_v2 where possible.
-- Echellette mode not supported (planned).
