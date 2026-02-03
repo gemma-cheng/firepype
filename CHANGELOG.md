@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format follows Keep a Changelog and Semantic Versioning.
 
+## [0.0.3] - 2026-02-03
+### Added
+- Adjust files to fix release to PyPI.
+
 ## [0.0.2] - 2026-02-03
 ### Added
 - Initial release to PyPI.
