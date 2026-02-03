@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "firepype"
-version = "0.0.1"
-description = "FIRE AB-pair NIR reduction pipeline"
+version = "0.0.3"
+description = "Python pipeline for Magellan/FIRE Prism-mode data"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
