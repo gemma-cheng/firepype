@@ -1,4 +1,4 @@
-name: Initial firepype v0.0.1 release
+name: Publish firepype to PyPI
 
 on:
   release:
