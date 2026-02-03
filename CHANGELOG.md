@@ -3,9 +3,13 @@ All notable changes to this project will be documented in this file.
 
 The format follows Keep a Changelog and Semantic Versioning.
 
+## [0.0.2] - 2026-02-03
+### Added
+- Initial release to PyPI.
+
 ## [0.0.1] - 2026-02-03
 ### Added
-- Initial experimental release to TestPyPI/PyPI.
+- Initial experimental release to TestPyPI.
 - Package name `firepype` with CLI entry points:
   - `firepype` – main pipeline runner (AB-pair NIR reduction).
   - `firepype-telluric` – telluric/response helper.
