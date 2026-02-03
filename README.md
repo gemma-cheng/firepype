@@ -46,7 +46,8 @@ Requirements:
 
 Minimal end-to-end reduction:
 
-```firepype \
+```
+firepype \
   --raw-dir /path/to/raw \
   --out-dir ./out \
   --arc /path/to/raw/fire_0123.fits \
@@ -55,7 +56,8 @@ Minimal end-to-end reduction:
 ```
 
 Telluric/response only:
-```firepype-telluric \
+```
+firepype-telluric \
   --standard ./out/standard_extracted.fits \
   --out-dir ./out/telluric \
   --stype A0V --plot
